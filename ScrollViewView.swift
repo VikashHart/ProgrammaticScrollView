@@ -181,7 +181,6 @@ class ScrollViewView: UIView {
             appleTextLabel.centerXAnchor.constraint(equalTo: containerView.centerXAnchor)
             ])
     }
-    
 }
 
 

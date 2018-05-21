@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  ScrollViewSampleProject
 //
-//  Created by C4Q on 5/21/18.
+//  Created by Vikash Hart on 5/21/18.
 //  Copyright © 2018 Vikash Hart. All rights reserved.
 //
 
